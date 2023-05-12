@@ -12,7 +12,7 @@
 <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="style4.css">
-    <title>Listagem de Produtos</title>
+    <title>Alteração de Produtos</title>
 </head>
 <body>
 	
